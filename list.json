@@ -1,4 +1,9 @@
-[
+    "name": "Kitty Sniper",
+    "subname": "Defi",
+    "tag": ["Defi"],
+    "logo": "KittSniper.png",
+    "href": "https://kittysniper.com"
+  },
   {
     "name": "ISC",
     "subname": "DeFi",
